@@ -1,5 +1,7 @@
 Northeastern University
+
 IE7500
+
 Prema Parks, Vincent Do
 
 Financial websites in original dataset blocked our automated scraping tools, we manually collected the article text for this submission. 
